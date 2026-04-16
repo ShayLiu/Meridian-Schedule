@@ -1,8 +1,10 @@
 
-````md
+```md
 # Meridian-Schedule
 
 A structured scheduling system within the Meridian framework for organizing work, research, and everyday life.
+
+> Meridian-Schedule is an interactive planning prototype that integrates tasks, weekly priorities, and notes into one coherent workflow.
 
 ## Overview
 
@@ -263,14 +265,3 @@ It is intended to grow into a flexible planning environment that connects:
 ## License
 
 MIT
-
-````
-
-如果你想更像成熟项目主页，我还建议你把 README 最前面再升级成这个版本的开头，更有 GitHub 展示感：
-
-```md
-# Meridian-Schedule
-
-A structured scheduling system within the Meridian framework for organizing work, research, and everyday life.
-
-> Meridian-Schedule is an interactive planning prototype that integrates tasks, weekly priorities, and notes into one coherent workflow.
